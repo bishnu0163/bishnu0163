@@ -3,7 +3,7 @@
 <!--
 **bishnu0163/bishnu0163** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-# Hi there, I'm Bishnu Barik 👋
+ Hi there, I'm Bishnu Barik 👋
 
 I'm a passionate college student pursuing a degree in Computer Engineering. I love working on projects related to Data analysis,Machine Learning, Data Science, Web Development.
 
